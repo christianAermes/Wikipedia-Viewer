@@ -8,4 +8,4 @@ This was a coding challenge on [freecodecamp.org](https://learn.freecodecamp.org
 ## What I learned
 * Basic CSS styling
 * Handling an API call with jquery
-* Working with an the wikipedia API
+* Working with the wikipedia API
